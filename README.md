@@ -23,7 +23,9 @@ Machine Learning Repository
     
   - [Searching Model](https://github.com/Bangkit-Capstone-C23-PS256/Kaffeehaus_Machine_Learning/tree/main/Tensorflow%20%20Words%20Embedding%20Model)
 
-    Using Word Embeding and Cosine Similarity for making next level searching model, 
+    Using Word Embeding and Cosine Similarity to make next level searching model, user can input query like: `Cafe that has a JKT48 vibes` it will return cafe that has the attribute that user input before.
     
   - [Content Based Filtering](https://github.com/Bangkit-Capstone-C23-PS256/Kaffeehaus_Machine_Learning/tree/main/Content%20Based%20Filtering)
+ 
+    For recommender system in our application we use content based filtering, it wll be give a cafe recomendation based on user preference or it will give cafe recommendation that has similar attribute with cafe that user like
 
