@@ -21,6 +21,9 @@ Machine Learning Repository
     
     There will be `Keyword Extraction` code in this folder, the code will be used for extract the keyword from `review_text` into keywords, after that we will use the keyword as parameter in making recommendation and searching feature
     
-  - [Tensorflow Words Embedding Model](https://github.com/Bangkit-Capstone-C23-PS256/Kaffeehaus_Machine_Learning/tree/main/Tensorflow%20%20Words%20Embedding%20Model)
+  - [Searching Model](https://github.com/Bangkit-Capstone-C23-PS256/Kaffeehaus_Machine_Learning/tree/main/Tensorflow%20%20Words%20Embedding%20Model)
+
+    Using Word Embeding and Cosine Similarity for making next level searching model, 
+    
   - [Content Based Filtering](https://github.com/Bangkit-Capstone-C23-PS256/Kaffeehaus_Machine_Learning/tree/main/Content%20Based%20Filtering)
 
